@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+  <rect width="640" height="400" rx="18" fill="#f8fafc" stroke="#334155" stroke-width="8" />
+  <!-- Top Tricolor Header -->
+  <rect x="4" y="4" width="632" height="32" fill="#ea580c" />
+  <rect x="4" y="36" width="632" height="28" fill="#ffffff" />
+  <rect x="4" y="64" width="632" height="32" fill="#15803d" />
+  <text x="320" y="56" font-family="sans-serif" font-size="20" font-weight="900" fill="#0f172a" text-anchor="middle">UNIQUE IDENTIFICATION AUTHORITY OF INDIA</text>
+  <!-- Photo Box -->
+  <rect x="36" y="115" width="145" height="175" rx="10" fill="#cbd5e1" stroke="#1e293b" stroke-width="4" />
+  <circle cx="108" cy="175" r="34" fill="#1e293b" />
+  <path d="M 55 275 C 55 220, 161 220, 161 275 Z" fill="#991b1b" />
+  <!-- Identity Details -->
+  <text x="205" y="150" font-family="sans-serif" font-size="22" font-weight="900" fill="#0f172a">GOVT. OF INDIA · AADHAAR KYC</text>
+  <text x="205" y="190" font-family="sans-serif" font-size="19" font-weight="700" fill="#1e293b">DOB: 14/08/1991 · VERIFIED REPORTER</text>
+  <rect x="205" y="212" width="240" height="38" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="2" />
+  <text x="325" y="237" font-family="sans-serif" font-size="18" font-weight="800" fill="#166534" text-anchor="middle">KYC STATUS: VERIFIED</text>
+  <!-- QR Box -->
+  <rect x="480" y="120" width="124" height="124" fill="#0f172a" rx="8" />
+  <rect x="494" y="134" width="36" height="36" fill="#ffffff" />
+  <rect x="554" y="134" width="36" height="36" fill="#ffffff" />
+  <rect x="494" y="194" width="36" height="36" fill="#ffffff" />
+  <rect x="548" y="188" width="32" height="32" fill="#38bdf8" />
+  <!-- 12 Digit Number -->
+  <rect x="4" y="312" width="632" height="84" fill="#1e293b" />
+  <text x="320" y="365" font-family="monospace" font-size="36" font-weight="900" fill="#facc15" text-anchor="middle" letter-spacing="6">8492 5103 7741</text>
+</svg>

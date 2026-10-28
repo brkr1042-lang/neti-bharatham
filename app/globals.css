@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "@fontsource/noto-sans-telugu/400.css";
+@import "@fontsource/noto-sans-telugu/600.css";
+@import "@fontsource/noto-sans-telugu/700.css";
+@import "@fontsource/noto-sans-devanagari/400.css";
+@import "@fontsource/noto-sans-devanagari/600.css";
+@import "@fontsource/noto-sans-devanagari/700.css";
+
+@theme {
+  --font-sans: var(--font-jakarta), "Noto Sans Telugu", "Noto Sans Devanagari", sans-serif;
+  --font-serif: var(--font-playfair), "Noto Sans Telugu", "Noto Sans Devanagari", serif;
+  --font-mono: var(--font-jetbrains), "Noto Sans Telugu", "Noto Sans Devanagari", monospace;
+}
+
+body, button, input, select, textarea {
+  font-family: var(--font-jakarta), "Noto Sans Telugu", "Noto Sans Devanagari", sans-serif;
+}

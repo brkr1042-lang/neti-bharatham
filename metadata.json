@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix నేటి భారతం (Neti Bharatam) - Multilingual Indian News Portal",
+  "description": "National, State, District \u0026 Mandal News Portal in Telugu, Hindi, and English with Reporter Dashboard, Digital Press ID, Private Ads, and YouTube Live Updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

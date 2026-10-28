@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="goldBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#451a03" />
+      <stop offset="50%" stop-color="#78350f" />
+      <stop offset="100%" stop-color="#1c1917" />
+    </linearGradient>
+    <linearGradient id="foil" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#fef08a" />
+      <stop offset="100%" stop-color="#b45309" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#goldBg)" />
+  <rect x="0" y="0" width="800" height="28" fill="url(#foil)" />
+  <rect x="0" y="472" width="800" height="28" fill="url(#foil)" />
+  <rect x="28" y="48" width="744" height="404" rx="16" fill="none" stroke="url(#foil)" stroke-width="4" />
+  <!-- Diamond & Gold Necklace Illustration -->
+  <polygon points="620,120 695,215 620,335 545,215" fill="none" stroke="url(#foil)" stroke-width="10" />
+  <polygon points="620,148 670,215 620,295 570,215" fill="#fef08a" fill-opacity="0.2" stroke="#fef08a" stroke-width="4" />
+  <circle cx="620" cy="368" r="22" fill="url(#foil)" />
+  <!-- Promotional Typography -->
+  <text x="65" y="130" font-family="sans-serif" font-size="20" font-weight="800" fill="#fde047" letter-spacing="3">HOME PAGE EXCLUSIVE · ALL INDIA</text>
+  <text x="65" y="195" font-family="sans-serif" font-size="38" font-weight="900" fill="#ffffff">BHARAT GOLD &amp; DIAMONDS</text>
+  <text x="65" y="245" font-family="sans-serif" font-size="25" font-weight="700" fill="#fef08a">BIS 916 Hallmark Bridal &amp; Diamond Expo</text>
+  <rect x="65" y="280" width="390" height="58" rx="10" fill="url(#foil)" />
+  <text x="260" y="318" font-family="sans-serif" font-size="24" font-weight="900" fill="#451a03" text-anchor="middle">VA / WASTAGE STARTING @ 4.9% ONLY</text>
+  <text x="65" y="395" font-family="sans-serif" font-size="20" font-weight="600" fill="#f8fafc">All Major Showrooms Across India · Toll-Free: 1800-889-9000</text>
+</svg>

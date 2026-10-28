@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="silkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7f1d1d" />
+      <stop offset="50%" stop-color="#991b1b" />
+      <stop offset="100%" stop-color="#450a0a" />
+    </linearGradient>
+    <linearGradient id="zari" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ca8a04" />
+      <stop offset="50%" stop-color="#fef08a" />
+      <stop offset="100%" stop-color="#a16207" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#silkGrad)" />
+  <!-- Gold Zari Border Top & Bottom -->
+  <rect x="0" y="0" width="800" height="36" fill="url(#zari)" />
+  <rect x="0" y="464" width="800" height="36" fill="url(#zari)" />
+  <rect x="28" y="56" width="744" height="388" rx="16" fill="none" stroke="url(#zari)" stroke-width="4" />
+  <!-- Decorative Saree Fold & Necklace Illustration -->
+  <path d="M 520 80 Q 650 250 540 420 L 720 420 L 720 80 Z" fill="#b91c1c" stroke="url(#zari)" stroke-width="6" />
+  <circle cx="620" cy="240" r="78" fill="none" stroke="url(#zari)" stroke-width="12" stroke-dasharray="14 6" />
+  <circle cx="620" cy="240" r="52" fill="none" stroke="#fef08a" stroke-width="6" />
+  <circle cx="620" cy="332" r="18" fill="url(#zari)" />
+  <!-- Promotional Typography -->
+  <text x="65" y="135" font-family="sans-serif" font-size="22" font-weight="800" fill="#fde047" letter-spacing="3">FESTIVAL GRAND BAZAAR OFFER</text>
+  <text x="65" y="200" font-family="sans-serif" font-size="34" font-weight="900" fill="#ffffff">SRI LAKSHMI VENKATESWARA SILKS</text>
+  <text x="65" y="250" font-family="sans-serif" font-size="26" font-weight="700" fill="#fef08a">Kanchipuram Pattu, Gadwal &amp; Bridal Jewellery</text>
+  <rect x="65" y="285" width="380" height="58" rx="10" fill="url(#zari)" />
+  <text x="255" y="323" font-family="sans-serif" font-size="25" font-weight="900" fill="#450a0a" text-anchor="middle">FLAT 30% OFF + FREE SILVER COIN</text>
+  <text x="65" y="395" font-family="sans-serif" font-size="20" font-weight="600" fill="#f8fafc">MG Road, Beside Clock Tower · Ph: 98480 12345</text>
+</svg>

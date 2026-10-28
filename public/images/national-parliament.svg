@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="55%" stop-color="#9a3412" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <linearGradient id="sandstone" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d97706" />
+      <stop offset="100%" stop-color="#78350f" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#sky)" />
+  <!-- Sun Glow -->
+  <circle cx="600" cy="240" r="160" fill="#fde047" opacity="0.22" />
+  <circle cx="600" cy="240" r="95" fill="#fef08a" opacity="0.38" />
+  <!-- Horizon & Kartavya Path Lawn -->
+  <rect x="0" y="480" width="1200" height="195" fill="#1c1917" />
+  <polygon points="460,480 740,480 1050,675 150,675" fill="#292524" />
+  <polygon points="565,480 635,480 720,675 480,675" fill="#b45309" opacity="0.45" />
+  <!-- Central Dome & Parliament Structure -->
+  <path d="M 470 300 Q 600 140 730 300 Z" fill="url(#sandstone)" />
+  <rect x="594" y="130" width="12" height="55" fill="#fef08a" />
+  <!-- Tricolor Flag on Top -->
+  <rect x="606" y="130" width="44" height="10" fill="#f97316" />
+  <rect x="606" y="140" width="44" height="10" fill="#ffffff" />
+  <rect x="606" y="150" width="44" height="10" fill="#16a34a" />
+  <!-- Colonnade -->
+  <rect x="220" y="300" width="760" height="28" fill="#92400e" />
+  <rect x="240" y="328" width="720" height="152" fill="#451a03" />
+  <!-- Pillars -->
+  <g fill="#d97706">
+    <rect x="260" y="328" width="18" height="152" />
+    <rect x="310" y="328" width="18" height="152" />
+    <rect x="360" y="328" width="18" height="152" />
+    <rect x="410" y="328" width="18" height="152" />
+    <rect x="460" y="328" width="18" height="152" />
+    <rect x="510" y="328" width="18" height="152" />
+    <rect x="560" y="328" width="18" height="152" />
+    <rect x="622" y="328" width="18" height="152" />
+    <rect x="672" y="328" width="18" height="152" />
+    <rect x="722" y="328" width="18" height="152" />
+    <rect x="772" y="328" width="18" height="152" />
+    <rect x="822" y="328" width="18" height="152" />
+    <rect x="872" y="328" width="18" height="152" />
+    <rect x="922" y="328" width="18" height="152" />
+  </g>
+  <rect x="190" y="465" width="820" height="20" fill="#78350f" />
+  <!-- Editorial Caption Overlay Strip -->
+  <rect x="40" y="40" width="320" height="44" rx="6" fill="#0f172a" opacity="0.85" />
+  <text x="60" y="68" font-family="sans-serif" font-size="18" font-weight="700" fill="#f8fafc" letter-spacing="2">NEW DELHI · NATIONAL DESK</text>
+</svg>

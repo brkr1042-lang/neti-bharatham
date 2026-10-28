@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="agriGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b" />
+      <stop offset="60%" stop-color="#15803d" />
+      <stop offset="100%" stop-color="#166534" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#agriGrad)" />
+  <rect x="24" y="24" width="752" height="452" rx="16" fill="none" stroke="#fde047" stroke-width="4" />
+  <!-- Tractor Illustration -->
+  <rect x="510" y="210" width="160" height="95" rx="12" fill="#dc2626" stroke="#ffffff" stroke-width="4" />
+  <rect x="590" y="135" width="85" height="80" rx="8" fill="#1e293b" stroke="#f8fafc" stroke-width="4" />
+  <rect x="525" y="155" width="14" height="55" fill="#475569" />
+  <circle cx="635" cy="315" r="58" fill="#1e293b" stroke="#facc15" stroke-width="12" />
+  <circle cx="525" cy="335" r="38" fill="#1e293b" stroke="#facc15" stroke-width="10" />
+  <!-- Text Content -->
+  <text x="60" y="110" font-family="sans-serif" font-size="20" font-weight="800" fill="#fde047" letter-spacing="2">RYTHU MITHRA AGRO AGENCIES</text>
+  <text x="60" y="175" font-family="sans-serif" font-size="36" font-weight="900" fill="#ffffff">TRACTORS &amp; HARVESTERS MELA</text>
+  <text x="60" y="225" font-family="sans-serif" font-size="24" font-weight="700" fill="#bbf7d0">0% Interest Crop &amp; Machinery Loans · Subsidy Seeds</text>
+  <rect x="60" y="265" width="380" height="54" rx="10" fill="#facc15" />
+  <text x="250" y="300" font-family="sans-serif" font-size="22" font-weight="900" fill="#064e3b" text-anchor="middle">SPECIAL KHARIF &amp; RABI SUBSIDY MELA</text>
+  <text x="60" y="385" font-family="sans-serif" font-size="19" font-weight="600" fill="#ffffff">NH-65 Bypass Road, Mandal Headquarters · Cell: 94401 67890</text>
+</svg>
